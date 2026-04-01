@@ -29,28 +29,6 @@ CipherSuite replaces all of it.
 
 ---
 
-### Black Box — Device Service Audit System
-**[alcyonesecure.in](https://alcyonesecure.in)**
-
-When you hand your laptop to a repair technician, nothing records what they do.  
-Black Box fixes that.
-
-Activate Repair Mode before handing over your device.  
-After servicing, get a cryptographically verified forensic report.
-
-- Windows Service running as SYSTEM — survives UI being killed  
-- Three-location logging: primary log + AES-256 shadow copy + Windows Event Log  
-- SHA-256 hash chain — any modification breaks the chain, report shows COMPROMISED  
-- USB monitoring via WMI — captures VendorID, ProductID, serial number, timestamps  
-- File activity monitoring with smart filtering — documents, photos, archives  
-- PIN protection with PBKDF2 (100,000 iterations) — key never stored  
-- Tamper detection — kills, service stops, safe mode attempts all logged  
-- Professional installer at 2.9MB with 4-screen onboarding wizard  
-- 6/6 automated tests passing  
-
-`C#` `.NET 8` `WPF` `Windows Service` `WMI` `AES-256` `SHA-256` `PBKDF2` `Inno Setup`
-
----
 
 ### Alcyone Secure — Cybersecurity Company
 **[alcyonesecure.in](https://alcyonesecure.in)**
@@ -64,10 +42,10 @@ This is how I see how security fails in the real world.
 
 ## What I'm Working On
 
-- Expanding Black Box with ETW kernel-level file monitoring and cloud log backup  
 - Building a DPDP Compliance Assessment Platform for employee security awareness testing  
 - Completing HackTheBox CPTS certification  
 - CompTIA Security+ — exam scheduled  
+- New security tooling — details coming soon  
 
 ---
 
