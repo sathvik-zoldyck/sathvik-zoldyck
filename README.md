@@ -1,4 +1,4 @@
-# Sathvik R — sathvik-zoldyck
+# Sathvik R 
 
 > *I build things to understand them. I break things to protect them.*
 
