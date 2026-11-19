@@ -1,7 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Sathvik R, security engineer and founder of Alcyone Secure, creator of Rashnova. Bengaluru, India." width="100%">
-</picture>
+<p align="center">
+  <img src="assets/header.png" width="100%" alt="Sathvik R. Security engineer. Founder of Alcyone Secure. Creator of Rashnova. A guilloche seal drawn from SHA-256 of the name engraves itself line by line around the gold Alcyone Secure owl.">
+</p>
 
 # Sathvik R
 
